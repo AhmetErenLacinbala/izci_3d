@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/izci_3d/static/css/main.12b2c60b.css",
+    "main.js": "/izci_3d/static/js/main.b8c7adc7.js",
+    "static/js/787.c62e82cc.chunk.js": "/izci_3d/static/js/787.c62e82cc.chunk.js",
+    "index.html": "/izci_3d/index.html",
+    "main.12b2c60b.css.map": "/izci_3d/static/css/main.12b2c60b.css.map",
+    "main.b8c7adc7.js.map": "/izci_3d/static/js/main.b8c7adc7.js.map",
+    "787.c62e82cc.chunk.js.map": "/izci_3d/static/js/787.c62e82cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12b2c60b.css",
+    "static/js/main.b8c7adc7.js"
+  ]
+}
